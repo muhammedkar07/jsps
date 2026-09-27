@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980881966805",
+    "project_id": "jsps-297c3",
+    "storage_bucket": "jsps-297c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980881966805:android:b29618f624feb050ea045c",
+        "android_client_info": {
+          "package_name": "com.example.jsps_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6WrGr782Xi8EFh4tz8gJ2bKh1W3J6Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
